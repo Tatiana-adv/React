@@ -1,0 +1,9 @@
+/* Inicializa as diretivas do Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo de fundo opcional para a aplicação */
+body {
+    background-color: #f0f4f8;
+}
